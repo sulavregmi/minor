@@ -124,6 +124,7 @@ router.get(
       images: req.reports,
       patient: req.patient,
       user: req.user,
+      
     });
   }
 );
